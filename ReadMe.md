@@ -1,4 +1,6 @@
 # NTRIP Client
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FLemvos%2Fautomatepro_ntrip_client.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FLemvos%2Fautomatepro_ntrip_client?ref=badge_shield)
+
 
 ROS 2 package for publishing RTCM correction data from an NTRIP server.
 
@@ -43,3 +45,7 @@ ntrip_client:
     username: "noname"
     password: "password"
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FLemvos%2Fautomatepro_ntrip_client.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FLemvos%2Fautomatepro_ntrip_client?ref=badge_large)
